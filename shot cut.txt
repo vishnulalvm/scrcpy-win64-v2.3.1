@@ -1,0 +1,1 @@
+scrcpy --always-on-top
